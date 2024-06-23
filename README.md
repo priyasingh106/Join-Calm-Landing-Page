@@ -1,1 +1,1 @@
-Live link :- https://lustrous-valkyrie-46d744.netlify.app/
+Live link of the project :- https://lustrous-becalmlandingpage.netlify.app/
